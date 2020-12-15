@@ -1,7 +1,4 @@
 #include <iostream>
-#include <cmath>
-#define _USE_MATH_DEFINES
-
 using namespace std;
 
 double deg2rad(double x)
